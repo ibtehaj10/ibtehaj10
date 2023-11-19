@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ibtehaj Khan
+<h1 align="center">Hi 👋, I'm Ibtehaj Khan<br>
 <img align="center" src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="chatbot" height="300" width="300" />
 </h1>
 
