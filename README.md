@@ -32,7 +32,7 @@ Excited to lead the charge in Decentralized AI and Bittensor at Neural Internet,
 <h3 align="left">Tech and Coding Platforms:</h3>
 <p align="left">
 <a href="https://www.kaggle.com/ibtehajkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ibtehajkhan" height="30" width="40" /></a>
-<a href="https://huggingface.co/ibtehajkhanAI" target="blank"><img align="center" src="[https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png](https://assets.stickpng.com/thumbs/6308b84661b3e2a522f01468.png)" alt="https://huggingface.co/ibtehajkhanAI" height="30" width="40" /></a>
+<a href="https://huggingface.co/ibtehajkhanAI" target="blank"><img align="center" src="https://assets.stickpng.com/thumbs/6308b84661b3e2a522f01468.png" alt="https://huggingface.co/ibtehajkhanAI" height="30" width="40" /></a>
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ibtehaj-khanai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibtehaj-khanai/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ibtehajkhanAI/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ibtehajkhanAI/" height="30" width="40" /></a>
