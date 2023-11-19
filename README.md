@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  b{
-    color:#57E600
-      }
-</style>
+
 <h1 align="center">Hi 👋, I'm Ibtehaj Khan</h1>
 <p align="left">A <b>Natural Language Processing Engineer</b> and <b>Chatbot developer</b>. Currently, I'm at the forefront of cutting-edge technology at <b>Neural Internet</b>, spearheading <b>Decentralized AI</b> on <b>Bittensor Network</b>s.
 
