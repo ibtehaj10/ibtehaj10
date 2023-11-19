@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ibtehaj Khan</h1>
-![logo]([https://github.com/ibtehaj10/ibtehaj10/assets/51523656/a0a9ad6f-5d69-4f38-9a96-e8fe094ddfad](https://github.com/ibtehaj10/ibtehaj10/blob/main/giphy.gif))
+![https://github.com/ibtehaj10/ibtehaj10/assets/51523656/a0a9ad6f-5d69-4f38-9a96-e8fe094ddfad](https://github.com/ibtehaj10/ibtehaj10/blob/main/giphy.gif)
 
 <h3 align="left">About Me 🚀</h3>
 <p align="left">A <b>Natural Language Processing Engineer</b> and <b>Chatbot developer</b>. Currently, I'm at the forefront of cutting-edge technology at <b>Neural Internet</b>, spearheading <b>Decentralized AI</b> on <b>Bittensor Network</b>s.
