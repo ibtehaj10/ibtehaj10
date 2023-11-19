@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ibtehaj Khan</h1>
 
-<h1><img align="center" src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="chatbot" height="300" width="300" /></h1>
+<img align="center" src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="chatbot" height="300" width="300" /></center>
 <h3 align="left">About Me 🚀</h3>
 <p align="left">A <b>Natural Language Processing Engineer</b> and <b>Chatbot developer</b>. Currently, I'm at the forefront of cutting-edge technology at <b>Neural Internet</b>, spearheading <b>Decentralized AI</b> on <b>Bittensor Network</b>s.
 
