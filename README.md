@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ibtehaj Khan</h1>
-<h6 align="left">Hey there, I'm Ibtehaj Khan, a Natural Language Processing enthusiast and Chatbot developer. Currently, I'm at the forefront of cutting-edge technology at Neural Internet, spearheading Decentralized AI on Bittensor Networks.
+<p align="left">A <b>Natural Language Processing Engineer</b> and <b>Chatbot developer</b>. Currently, I'm at the forefront of cutting-edge technology at <b>Neural Internet</b>, spearheading <b>Decentralized AI</b> on <b>Bittensor Network</b>s.
 
-My focus? Conversational AI and NLP using deep learning and Python. At Proxima AI, where I serve as an NLP Engineer and Team Lead, we're continually pushing the boundaries of what's possible in the world of AI.
+My focus? Conversational AI and NLP using deep learning and <b>Python</b>. At Proxima AI, where I serve as an NLP Engineer and Team Lead, we're continually pushing the boundaries of what's possible in the world of AI.
 
 You'll find my fingerprints on projects involving chatbots, sentiment analysis, language detection, and Q&A systems, utilizing platforms like RASA, Dialogflow, Manychat, UChat, and Chatfuel. I've seamlessly integrated chatbots with WhatsApp, Facebook, Instagram, Telegram, and Slack.
 
-I'm currently navigating the world of academia, pursuing a Bachelor of Science degree in Artificial Intelligence at Sindh Madarasah Tul Islam University. I've also earned an Advanced Diploma in Software Engineering from Aptech Pakistan. Certified in Rasa, Microsoft, DataCamp, and Robocorp for automation development, I'm always hungry for more knowledge.
+I'm currently navigating the world of academia, pursuing a Bachelor of Science degree in <b>Artificial Intelligence</b> at <b>Sindh Madarasah Tul Islam University</b>. I've also earned an Advanced Diploma in Software Engineering from Aptech Pakistan. Certified in Rasa, Microsoft, DataCamp, and Robocorp for automation development, I'm always hungry for more knowledge.
 
-When I'm not immersed in the world of AI, I'm hooked on web design and exploring the latest in artificial neural networks, computer vision, and generative AI.
+When I'm not immersed in the world of AI, I'm hooked on web design and exploring the latest in artificial <b>Neural networks</b> and <b>Generative AI</b>.
 
-Excited to lead the charge in Decentralized AI and Bittensor at Neural Internet, while driving innovation at Proxima AI, I'm open to new opportunities, collaborations, and pushing the boundaries of what's possible in tech. Let's make magic together!</h6>
+Excited to lead the charge in Decentralized AI and Bittensor at Neural Internet, while driving innovation at Proxima AI, I'm open to new opportunities, collaborations, and pushing the boundaries of what's possible in tech. Let's make magic together!</p>
 
 <p align="left"> <a href="https://twitter.com/ibtehajkhanai" target="blank"><img src="https://img.shields.io/twitter/follow/ibtehajkhanai?logo=twitter&style=for-the-badge" alt="ibtehajkhanai" /></a> </p>
 
