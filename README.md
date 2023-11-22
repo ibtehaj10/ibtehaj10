@@ -1,7 +1,4 @@
-<h1 align="center"> 
-  <img align="center" src="https://github.com/ibtehaj10/ibtehaj10/blob/main/Ibtehaj_Khan.png" alt="chatbot" height="500" width="800" />
-  <br>
-</h1>
+
 </h1>
 <h1 align="center">Hi 👋, I'm Ibtehaj Khan  <br><br>
 <img align="center" src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="chatbot" height="300" width="300" />
