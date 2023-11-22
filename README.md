@@ -1,5 +1,5 @@
-<h1></hr>  
-  <img align="center" src="https://github.com/ibtehaj10/ibtehaj10/blob/main/Ibtehaj_Khan.png" alt="chatbot" height="300" width="500" />
+<h1 align="center"> 
+  <img align="center" src="https://github.com/ibtehaj10/ibtehaj10/blob/main/Ibtehaj_Khan.png" alt="chatbot" height="500" width="800" />
   <br>
 </h1>
 </h1>
