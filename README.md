@@ -1,6 +1,6 @@
-<h1>
-  <img align="center" src="https://github.com/ibtehaj10/ibtehaj10/blob/main/Ibtehaj_Khan.png" alt="chatbot" height="300" width="300" />
-  <br><br>
+<h1></hr>  
+  <img align="center" src="https://github.com/ibtehaj10/ibtehaj10/blob/main/Ibtehaj_Khan.png" alt="chatbot" height="300" width="500" />
+  <br>
 </h1>
 </h1>
 <h1 align="center">Hi 👋, I'm Ibtehaj Khan  <br><br>
